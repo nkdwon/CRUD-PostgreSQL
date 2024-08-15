@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Se não souber como instalar e/ou não tiver JDK( Java Development Kit) em seu computador, consulte este [vídeo](https://www.youtube.com/watch?v=sNFii-cvNz0) e o [site](https://www.oracle.com/br/java/technologies/downloads/) para saber mais.
 
-- Para o PostgreSQL e o pgAdmin4, assita a este [vídeo](https://www.youtube.com/watch?v=UbX-2Xud1JA&t=160s) e acesse o site [aqui](https://www.postgresql.org/download/)
+- Para o PostgreSQL e o pgAdmin4, assita a este [vídeo](https://www.youtube.com/watch?v=UbX-2Xud1JA&t=160s) e acesse o site [aqui](https://www.postgresql.org/download/).
 
 - Já para instalar o Eclipse, consulte este [vídeo](https://www.youtube.com/watch?v=1-TXv0D5bcg). Se tiver dúvidas ou mais interesse em aprender sobre a ferramenta, acesse o site [aqui](https://www.eclipse.org/).
 
